@@ -94,11 +94,11 @@ Greengle is a companion site for [Amazon.com](https://www.amazon.com/), that hel
 <td width="250">Backend Engineer</td>
 <td width="150" align="center">	
 	<a href="https://github.com/kityan2020">
-	<img src="https://img.shields.io/badge/liboto00-655ced?style=social&logo=github"/>
+	<img src="[https://img.shields.io/badge/liboto00-655ced?style=social&logo=github](https://avatars.githubusercontent.com/u/104050929?s=400&u=25596941d4ea7c222538f9de4fc956921840b642&v=4)"/>
 	</a>
 </td>
 <td width="300" align="center">
-<a href="mailto:kyan@bu.edu"><img src=""></a>
+<a href="mailto:kyan@bu.edu"><img src="https://img.shields.io/static/v1?label=&message=kyan@bu.edu&color=lightblue&style=flat-square&logo=gmail"></a>
 </tr>
 	
    
