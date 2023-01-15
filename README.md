@@ -89,7 +89,7 @@ Greengle is a companion site for [Amazon.com](https://www.amazon.com/), that hel
 
 	
 <tr>
-<td width="100" align="center"><img src="" width="60" height="60"></td>
+<td width="100" align="center"><img src="https://github.com/kityan2020.png" width="60" height="60"></td>
 <td width="100" align="center">Kit Yan</td>
 <td width="250">Backend Engineer</td>
 <td width="150" align="center">	
