@@ -86,6 +86,19 @@ Greengle is a companion site for [Amazon.com](https://www.amazon.com/), that hel
 <td width="300" align="center">
 <a href="mailto:abhan03@bu.edu"><img src="https://img.shields.io/static/v1?label=&message=abhan03@bu.edu&color=lightblue&style=flat-square&logo=gmail"></a>
 </tr>
+
+<tr>
+<td width="100" align="center"><img src="https://user-images.githubusercontent.com/55467050/201533477-544d3371-e32b-44cf-b068-0fe9d1d080ee.png" width="60" height="60"></td>
+<td width="100" align="center">Kit Yan</td>
+<td width="250">Backend Engineer</td>
+<td width="150" align="center">	
+	<a href="https://github.com/kityan2020">
+	<img src="https://img.shields.io/badge/liboto00-655ced?style=social&logo=github"/>
+	</a>
+</td>
+<td width="300" align="center">
+<a href="mailto:kyan@bu.edu"><img src="https://img.shields.io/static/v1?label=&message=abhan03@bu.edu&color=lightblue&style=flat-square&logo=gmail"></a>
+</tr>
 	
    
 </tr>
